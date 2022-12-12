@@ -4,3 +4,13 @@
 Image : Model Accuracy and Loss using timm library models
 ![loss_gflops](https://user-images.githubusercontent.com/38518648/206941861-f0c0fa71-1637-496a-a9a1-cedd8101b145.png)
 ![acc_gflops](https://user-images.githubusercontent.com/38518648/206941862-4bdd51e8-6e30-45a4-b6c2-38d35c007e03.png)
+
+Excel_data
+
+1. head of excel data (timm model)
+2. Image shape 
+3. albumentation 
+
+![image](https://user-images.githubusercontent.com/38518648/206944459-fde8c660-8450-4db7-9f9c-b961954d6318.png)
+![image](https://user-images.githubusercontent.com/38518648/206944536-6f8e2156-e19f-421b-b619-87e5b608ab6c.png)
+![image](https://user-images.githubusercontent.com/38518648/206947614-68d3ceec-5312-46a6-8c8f-991240a47aa1.png)
