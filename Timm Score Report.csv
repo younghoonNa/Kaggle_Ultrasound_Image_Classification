@@ -1,0 +1,335 @@
+,model,loss,accuracy,gflops,type_Arch,type_training
+20,ens_adv_inception_resnet_v2,0.030088311,0.920673072,12.976317,resnet,None
+126,tf_efficientnetv2_l,0.028397337,0.920673072,23.9733274,efficientnet,None
+314,tf_efficientnet_b2_ns,0.029074026,0.920673072,1.2797543,efficientnet,None
+269,efficientnet_b3a,0.030764671,0.916118443,1.9044593,efficientnet,None
+47,tf_efficientnet_b0_ns,0.03660785,0.915738881,0.733985,efficientnet,None
+264,tf_efficientnet_b4_ns,0.042861745,0.915738881,2.9523384,efficientnet,None
+13,tf_efficientnet_b3_ns,0.03459331,0.91409415,1.8767574,efficientnet,None
+261,tf_mixnet_s,0.026841288,0.91244936,0.4463242,None,Mixed Depthwise Convolutional Kernels
+64,tf_efficientnet_b7_ns,0.037067465,0.909539461,10.2644413,efficientnet,None
+219,inception_resnet_v2,0.032677487,0.908780336,12.976317,resnet,None
+165,xception71,0.030815685,0.907515168,19.7459894,None,None
+249,efficientnet_b2a,0.040575132,0.907515168,1.3008235,efficientnet,None
+77,mixnet_m,0.034871168,0.905490875,0.6646135,None,Mixed Depthwise Convolutional Kernels
+191,tf_efficientnetv2_b0,0.031811338,0.905490875,1.2952092,efficientnet,None
+293,tf_efficientnet_b7,0.033475,0.905490875,10.2644413,efficientnet,None
+279,gluon_resnet50_v1b,0.030200152,0.904225707,8.10607,resnet,None
+97,mixnet_s,0.028076451,0.903846145,0.4682276,None,Mixed Depthwise Convolutional Kernels
+16,tf_efficientnetv2_b1,0.029438633,0.902960539,1.8907553,efficientnet,None
+253,ecaresnet26t,0.025340205,0.902960539,5.1510979,None,Efficient Channel Attention
+127,tf_efficientnet_b1_ns,0.031835958,0.902580976,1.1016589,efficientnet,None
+140,tf_efficientnetv2_b3,0.038137354,0.901315808,3.0403388,efficientnet,None
+244,nf_regnet_b1,0.026855992,0.901315808,0.0091473,Normalizer-Free,regular network (Designing Network Design Spaces)
+2,ese_vovnet19b_dw,0.026438741,0.900936246,2.6361491,Variety of View Network,effective squeeze-extraction
+3,gcresnet33ts,0.028402699,0.900936246,7.2364518,None,None
+42,tf_efficientnet_lite4,0.035685156,0.900936246,2.6520504,efficientnet,None
+60,dpn68b,0.033648767,0.900936246,4.6462436,None,None
+82,tf_efficientnet_b6,0.046952434,0.900936246,6.6533498,efficientnet,None
+130,tinynet_b,0.036133099,0.900936246,0.5354702,tinynet,None
+167,tf_efficientnet_lite3,0.038008463,0.9,1.6614413,efficientnet,None
+258,densenet121,0.034180164,0.9,5.5093934,None,None
+154,tinynet_e,0.03763251,0.899671078,0.1599902,tinynet,None
+227,mobilenetv2_110d,0.034461029,0.898026288,0.84417,mobilenet,None
+308,gluon_inception_v3,0.041781921,0.898026288,5.6948784,None,None
+198,fbnetv3_g,0.03929764,0.897646725,2.0719056,mobilenet,None
+181,mobilenetv2_120d,0.033494674,0.897267163,1.3208529,mobilenet,None
+93,regnety_120,0.043990087,0.896381557,7.4321903,regular network (Designing Network Design Spaces),None
+78,efficientnet_b4,0.035216704,0.896001995,2.9823687,efficientnet,None
+99,legacy_senet154,0.035431266,0.896001995,41.6530514,None,None
+188,wide_resnet50_2,0.043593824,0.896001995,0.1338333,resnet,None
+278,gluon_resnet50_v1c,0.038915668,0.896001995,8.7346749,None,None
+0,ecaresnet269d,0.031943224,0.894357264,40.8501038,None,Efficient Channel Attention
+10,tf_efficientnet_b1,0.040949009,0.894357264,1.1016589,efficientnet,None
+57,gc_efficientnetv2_rw_t,0.030242011,0.894357264,3.8182013,efficientnet,None
+70,tf_efficientnet_b5,0.042986412,0.894357264,4.6551354,efficientnet,None
+176,tinynet_c,0.047663737,0.894357264,0.2625342,tinynet,None
+189,tf_efficientnet_b6_ns,0.041607052,0.894357264,6.6533498,efficientnet,None
+300,tf_efficientnet_b2,0.040185418,0.894357264,1.2797543,efficientnet,None
+125,ecaresnet50t,0.032731503,0.893977702,8.6751411,None,None
+48,tf_mixnet_l,0.028407043,0.893598139,1.0296864,None,Mixed Depthwise Convolutional Kernels
+206,efficientnet_es,0.029941257,0.893092096,3.5605998,efficientnet,None
+5,tf_efficientnetv2_b2,0.036126245,0.892712533,2.1963021,efficientnet,None
+32,gcresnet50t,0.029083434,0.892712533,8.2363034,None,None
+151,gernet_s,0.033293933,0.892712533,1.4787871,None,None
+292,mobilenetv3_rw,0.046763472,0.892712533,0.4234865,mobilenet,None
+275,tf_efficientnet_b4,0.044380926,0.892332971,2.9523384,efficientnet,None
+120,tf_efficientnet_es,0.034258533,0.891067803,3.171071,efficientnet,None
+121,tf_efficientnet_b3_ap,0.035013732,0.891067803,1.8767574,efficientnet,None
+246,tf_efficientnet_lite0,0.032048516,0.891067803,0.7327306,efficientnet,None
+318,tf_efficientnet_b0,0.038069308,0.891067803,0.733985,efficientnet,None
+242,gluon_resnext50_32x4d,0.035701498,0.890688241,8.4149535,None,None
+287,densenetblur121d,0.035066534,0.890688241,6.1315758,None,None
+98,mixnet_l,0.033310037,0.889423072,1.0931591,None,Mixed Depthwise Convolutional Kernels
+303,mixnet_xl,0.030644072,0.889423072,1.7870646,None,Mixed Depthwise Convolutional Kernels
+211,gluon_resnet18_v1b,0.038858425,0.88904351,3.4896998,None,None
+291,ese_vovnet57b,0.040589515,0.888157904,17.8333901,Variety of View Network,effective squeeze-extraction
+66,dla60_res2next,0.045837674,0.887778342,6.8639698,None,Deep layer aggregation
+119,ese_vovnet39b,0.033102762,0.887778342,14.1175562,Variety of View Network,effective squeeze-extraction
+179,tf_efficientnet_b6_ap,0.043241568,0.887778342,6.6533498,None,None
+213,tf_efficientnet_lite1,0.03301077,0.887778342,0.9672909,efficientnet,None
+294,cspdarknet53,0.040834885,0.887398779,9.9454034,None,None
+304,tf_efficientnet_b7_ap,0.035679121,0.887398779,10.2644413,efficientnet,None
+37,gcresnext26ts,0.032721255,0.886133611,3.6715622,None,None
+74,tinynet_b,0.044383999,0.886133611,0.5354702,tinynet,None
+86,fbnetc_100,0.032870308,0.886133611,0.2014829,mobilenet,Squeeze-and-Excitation Networks
+123,repvgg_b1g4,0.044306476,0.886133611,16.2010644,None,None
+301,tf_efficientnet_em,0.040330302,0.886133611,4.8201554,efficientnet,None
+75,efficientnet_b0,0.046735186,0.885754049,0.7547673,efficientnet,None
+297,tf_efficientnet_el,0.036918242,0.885754049,8.0274977,efficientnet,None
+164,mnasnet_a1,0.038276792,0.884868443,0.6062959,None,Platform-Aware Neural Architecture Search for Mobile
+172,densenet201,0.042446412,0.884868443,8.4221514,None,None
+155,tf_efficientnet_b4_ap,0.04563757,0.884488881,2.9523384,efficientnet,None
+157,nf_ecaresnet50,0.031268176,0.884488881,0.0011156,Normalizer-Free,Efficient Channel Attention
+11,efficientnet_b1,0.040651903,0.884109318,1.1224412,efficientnet,None
+19,tf_efficientnet_b5_ap,0.045532499,0.883223712,4.6551354,efficientnet,None
+257,gluon_resnet101_v1c,0.033525057,0.883223712,16.2000609,None,None
+76,gernet_l,0.031573087,0.88284415,6.9598963,None,None
+266,gluon_resnet152_v1b,0.044094,0.88284415,23.0464758,None,None
+100,hrnet_w18_small_v2,0.036974594,0.882464588,5.2377637,None,None
+129,densenet121,0.03699236,0.882464588,5.5093934,None,None
+299,efficientnet_el,0.04148899,0.882464588,8.687425,efficientnet,None
+150,xception65,0.034906339,0.882085025,15.1958918,None,None
+143,dla46x_c,0.043769967,0.881578922,0.9528719,None,Deep layer aggregation
+149,pnasnet5large,0.038580943,0.881578922,21.4859557,None,None
+34,tf_efficientnetv2_m_in21k,0.0346299,0.88119936,10.4435731,efficientnet,None
+58,gluon_resnet152_v1d,0.035517011,0.88119936,23.6757832,None,None
+68,tf_efficientnet_b3,0.049802057,0.88119936,1.8767574,efficientnet,None
+39,gluon_seresnext101_32x4d,0.037661735,0.880819798,15.9580652,Squeeze-and-Excitation Networks,None
+272,dla60x_c,0.045687813,0.879934192,1.0528225,None,Deep layer aggregation
+114,tf_efficientnet_b1_ap,0.040079042,0.879554629,1.1016589,efficientnet,None
+46,tf_efficientnet_cc_b1_8e,0.044550925,0.879175067,0.456299,efficientnet,None
+90,tf_efficientnet_cc_b0_4e,0.046705704,0.878795505,0.3224886,efficientnet,None
+6,tf_efficientnet_b2_ap,0.045383979,0.878289461,1.2797543,efficientnet,None
+141,xception,0.033248764,0.878289461,9.1805922,None,None
+56,tf_inception_v3,0.048003033,0.877909899,5.6948784,None,None
+222,efficientnet_em,0.033543244,0.876644731,5.2096842,efficientnet,None
+265,tf_mobilenetv3_large_minimal_100,0.03584943,0.876644731,0.1022919,mobilenet,None
+284,gluon_xception65,0.039285075,0.876644731,15.2118854,None,None
+305,efficientnet_b3,0.045659922,0.876265168,1.9044593,efficientnet,None
+333,tf_efficientnet_cc_b0_8e,0.038099233,0.876265168,0.322498,efficientnet,None
+92,efficientnetv2_rw_s,0.041889828,0.875506043,5.8736461,efficientnet,None
+106,legacy_seresnet18,0.04000587,0.874620438,3.4898739,Squeeze-and-Excitation Networks,None
+259,tinynet_d,0.048053633,0.874620438,0.1899217,tinynet,None
+322,gluon_resnet50_v1d,0.039277792,0.874620438,8.7353774,None,None
+29,repvgg_b0,0.039310448,0.874240875,6.7598592,None,None
+35,legacy_seresnet50,0.038350806,0.874240875,7.6444631,Squeeze-and-Excitation Networks,None
+108,eca_nfnet_l0,0.037418541,0.873355269,0.0011709,Normalizer-Free,Efficient Channel Attention
+134,tf_efficientnetv2_s_in21k,0.046105832,0.872975707,5.4192609,efficientnet,None
+199,nf_ecaresnet101,0.03296753,0.872975707,0.0012897,Normalizer-Free,Efficient Channel Attention
+220,xception41,0.039154258,0.872975707,10.0933689,None,None
+268,cspresnext50,0.041610431,0.872596145,5.9876393,None,None
+271,mobilenetv2_140,0.040651668,0.872596145,0.4938742,mobilenet,None
+9,efficientnet_b2,0.04405392,0.871330976,1.3008235,efficientnet,None
+307,gluon_seresnext101_64x4d,0.034601,0.871,31.0184919,Squeeze-and-Excitation Networks,None
+55,legacy_seresnet152,0.043722749,0.870951414,22.5929953,Squeeze-and-Excitation Networks,None
+170,cspresnet50,0.040037502,0.870951414,6.7582239,None,None
+251,repvgg_b1,0.055362079,0.870065808,26.2202081,None,None
+85,efficientnetv2_rw_m,0.049427688,0.869686246,12.3682365,efficientnet,None
+109,gluon_seresnext50_32x4d,0.044371963,0.869686246,8.4199834,Squeeze-and-Excitation Networks,None
+128,tf_mixnet_m,0.045129344,0.869686246,0.6163677,None,Mixed Depthwise Convolutional Kernels
+26,tf_efficientnet_lite2,0.045355927,0.869306684,1.1150874,efficientnet,None
+298,tinynet_c,0.041470058,0.869306684,0.2625342,tinynet,None
+69,tf_efficientnetv2_m_in21ft1k,0.038849484,0.868927121,10.4435731,efficientnet,None
+71,tf_efficientnet_b8,0.04580465,0.868041515,13.8601737,efficientnet,None
+81,nfnet_f1,0.038203526,0.868041515,0.0884029,Normalizer-Free,None
+224,tinynet_d,0.051716998,0.868041515,0.1899217,tinynet,None
+102,tv_resnet34,0.035899173,0.867661953,7.1991112,None,None
+148,gluon_resnext101_32x4d,0.047858588,0.867661953,15.9485788,None,None
+162,tf_efficientnet_b0_ap,0.041467141,0.867661953,0.733985,efficientnet,None
+95,tf_efficientnetv2_s_in21ft1k,0.038277987,0.866396725,5.4192609,efficientnet,None
+115,fbnetv3_b,0.070441268,0.866396725,0.8039582,mobilenet,None
+218,tinynet_a,0.047490802,0.866396725,0.8986682,tinynet,None
+238,eca_nfnet_l2,0.035327293,0.866396725,0.0015621,Normalizer-Free,Efficient Channel Attention
+112,tf_efficientnetv2_l_in21k,0.048857234,0.866017163,23.9733274,efficientnet,None
+262,tf_efficientnetv2_s,0.041180998,0.866017163,5.4192609,efficientnet,None
+250,dpn68,0.043890659,0.865131557,4.6462436,None,None
+122,tf_efficientnet_b5_ns,0.062114421,0.864751995,4.6551354,efficientnet,None
+192,dla60_res2net,0.047084395,0.864751995,8.1851321,None,Deep layer aggregation
+334,gluon_resnet101_v1d,0.04140386,0.864751995,16.2007634,None,None
+163,nfnet_f0,0.044026375,0.864372432,0.044756,Normalizer-Free,None
+223,dla46_c,0.045065433,0.863107264,1.0266808,None,Deep layer aggregation
+30,nf_ecaresnet26,0.036818214,0.862727702,0.0010332,Normalizer-Free,Efficient Channel Attention
+210,mnasnet_b1,0.045337312,0.861462533,0.6119695,None,Platform-Aware Neural Architecture Search for Mobile
+277,legacy_seresnet34,0.047203708,0.861462533,7.1994255,Squeeze-and-Excitation Networks,None
+124,tf_mobilenetv3_small_100,0.051387016,0.861082971,0.0272954,mobilenet,None
+195,legacy_seresnext26_32x4d,0.044071104,0.861082971,4.8580526,Squeeze-and-Excitation Networks,None
+329,gernet_m,0.039042655,0.861082971,5.9897434,None,None
+296,efficientnet_el_pruned,0.045592759,0.860197365,8.687425,efficientnet,None
+88,efficientnet_es_pruned,0.036842454,0.859817803,3.5605998,efficientnet,None
+136,ese_vovnet19b_slim_dw,0.035203215,0.859817803,0.7662768,Variety of View Network,effective squeeze-extraction
+187,ghostnet_100,0.0422327,0.859817803,0.081108,None,SOTA(papers with code)
+229,densenet121d,0.041188966,0.859817803,6.1315758,None,None
+231,mobilenetv3_large_100_miil_in21k,0.058648933,0.858173072,0.4234902,mobilenet,None
+281,tv_resnet101,0.040847134,0.858173072,15.571456,None,None
+116,regnety_064,0.039551526,0.856907904,1.0430868,regular network (Designing Network Design Spaces),None
+235,nf_regnet_b5,0.043100536,0.856907904,0.0485292,Normalizer-Free,regular network (Designing Network Design Spaces)
+312,dla34,0.049942747,0.855263174,6.0019118,None,Deep layer aggregation
+12,tf_efficientnetv2_m,0.04230411,0.854883611,10.4435731,efficientnet,None
+182,legacy_seresnet101,0.038999502,0.854883611,15.1143055,Squeeze-and-Excitation Networks,None
+38,fbnetv3_d,0.084598444,0.854504049,0.9892801,mobilenet,None
+240,tf_mobilenetv3_small_minimal_100,0.042475671,0.854124486,0.0246214,mobilenet,None
+228,regnetx_080,0.049692988,0.853618443,2.0765939,regular network (Designing Network Design Spaces),None
+317,efficientnet_lite0,0.043215927,0.853238881,0.7535129,efficientnet,None
+217,nf_resnet26,0.0442474,0.851973712,0.00094,Normalizer-Free,resnet
+41,resnet26t,0.050251275,0.850328922,5.1510047,None,None
+28,nf_seresnet26,0.053500835,0.84994936,0.0037253,Normalizer-Free,Squeeze-and-Excitation Networks
+54,tv_resnext50_32x4d,0.045669463,0.84994936,8.4149535,None,None
+208,tinynet_e,0.051117454,0.84994936,0.1599902,tinynet,None
+142,nf_regnet_b2,0.042633861,0.849569798,0.0131103,Normalizer-Free,regular network (Designing Network Design Spaces)
+89,gluon_resnet34_v1b,0.044272438,0.848304629,7.1991112,None,None
+144,mobilenetv3_large_100,0.065717176,0.848304629,0.110385,mobilenet,None
+233,nf_regnet_b3,0.042218868,0.848304629,0.0173305,Normalizer-Free,regular network (Designing Network Design Spaces)
+183,regnetx_120,0.044021837,0.847925067,7.4207932,regular network (Designing Network Design Spaces),None
+87,regnetx_160,0.0474413,0.846659899,16.2567537,regular network (Designing Network Design Spaces),None
+267,tv_resnet50,0.049109399,0.846659899,8.10607,None,None
+80,tf_efficientnetv2_l_in21ft1k,0.047493491,0.846280336,23.9733274,efficientnet,None
+252,gluon_resnet50_v1s,0.059360165,0.846280336,10.964095,None,None
+159,inception_v3,0.051485039,0.845015168,5.6948784,None,None
+139,tf_efficientnetv2_xl_in21ft1k,0.068757057,0.843370438,35.3139553,efficientnet,None
+186,cspresnext50_iabn,0.058052402,0.841725707,5.9876393,None,None
+50,mobilenetv2_100,0.040642235,0.841346145,0.1480403,mobilenet,None
+248,tv_densenet121,0.051757328,0.841346145,5.5093934,None,None
+22,ese_vovnet99b,0.046420299,0.840080976,32.9455985,Variety of View Network,effective squeeze-extraction
+103,gluon_resnet101_v1b,0.043958493,0.840080976,15.571456,None,None
+215,eca_vovnet39b,0.047795963,0.84,14.1136497,Variety of View Network,Efficient Channel Attention
+288,repvgg_a2,0.053183418,0.839701414,11.3359252,None,None
+239,inception_v4,0.039870176,0.838436246,12.2929857,None,None
+17,regnetx_040,0.046317179,0.838056684,0.3548834,regular network (Designing Network Design Spaces),None
+83,tf_efficientnet_b8_ap,0.055160116,0.838056684,13.8601737,efficientnet,None
+62,hrnet_w18,0.062593,0.837,8.6674446,None,None
+256,repvgg_b2g4,0.054362763,0.836411953,25.1444941,None,None
+197,vgg11_bn,0.042634346,0.835146725,15.1538729,None,None
+18,xception41p,0.048183888,0.834767163,9.934474,None,None
+255,regnety_160,0.042917591,0.834767163,16.2358836,regular network (Designing Network Design Spaces),None
+96,nf_regnet_b0,0.041275837,0.831857264,0.0077114,Normalizer-Free,regular network (Designing Network Design Spaces)
+14,ecaresnext26t_32x4d,0.050611764,0.830212533,5.424256,None,Efficient Channel Attention
+118,regnety_080,0.046107426,0.829453409,2.075834,regular network (Designing Network Design Spaces),None
+61,nf_regnet_b4,0.04767881,0.828567803,0.0288973,Normalizer-Free,regular network (Designing Network Design Spaces)
+59,dpn131,0.062266,0.827,31.7075297,None,None
+53,cspdarknet53,0.056398384,0.825657904,9.9454034,None,None
+320,densenet121d,0.047521964,0.825278342,6.1315758,None,None
+135,tf_efficientnet_l2_ns,0.065279763,0.825,74.6067691,efficientnet,None
+24,gluon_resnet152_v1c,0.050129138,0.824898779,23.6750807,None,None
+160,gmlp_s16_224,0.052540705,0.824898779,8.7808041,None,None
+331,tf_mobilenetv3_large_075,0.087485962,0.824898779,0.0417502,mobilenet,None
+43,efficientnetv2_l,0.048816592,0.821988881,24.4455149,efficientnet,None
+280,dla169,0.071410343,0.821988881,23.1174062,None,Deep layer aggregation
+309,gluon_resnet152_v1s,0.052782673,0.821229756,25.9045007,None,None
+44,mobilenetv3_large_100_miil,0.081944995,0.820723712,0.4234902,mobilenet,None
+202,dla60x,0.059327748,0.82034415,6.9842166,None,Deep layer aggregation
+282,nf_seresnet101,0.057718508,0.819964588,0.0104264,Normalizer-Free,Squeeze-and-Excitation Networks
+313,tf_mobilenetv3_large_100,0.074043423,0.819964588,0.1075873,mobilenet,None
+247,regnetx_064,0.046303798,0.818319798,1.0533389,regular network (Designing Network Design Spaces),None
+236,regnety_040,0.051510196,0.817434192,0.3400588,regular network (Designing Network Design Spaces),None
+31,ecaresnet200d,0.06128557,0.817054629,30.7411492,None,Efficient Channel Attention
+177,gluon_resnet101_v1s,0.059912801,0.815409899,18.429481,None,None
+110,densenet161,0.062166139,0.813765168,15.2161814,None,None
+315,mixnet_xxl,0.08408954,0.813765168,3.9572678,None,Mixed Depthwise Convolutional Kernels
+72,mnasnet_100,0.051495921,0.813385606,0.1639753,None,Platform-Aware Neural Architecture Search for Mobile
+132,tf_mobilenetv3_small_075,0.050378036,0.813385606,0.0112133,mobilenet,None
+67,dla102,0.070245214,0.813006043,14.2832189,None,Deep layer aggregation
+1,ese_vovnet39b_evos,0.047984965,0.812120438,14.1175562,Variety of View Network,effective squeeze-extraction
+45,tv_resnet152,0.053487904,0.812120438,23.0464758,None,None
+232,cspresnet50w,0.064415798,0.812120438,7.6695388,None,None
+15,dla102x2,0.100590535,0.810096145,18.6479288,None,Deep layer aggregation
+205,ese_vovnet19b_slim,0.048384499,0.810096145,3.3305636,Variety of View Network,None
+319,densenet264,0.056483123,0.808830976,25.458384,None,None
+175,eca_lambda_resnext26ts,0.05953005,0.808071852,3.6715622,resnet,Efficient Channel Attention
+51,dla60,0.067458682,0.803517163,8.3937608,None,Deep layer aggregation
+325,vit_srelpos_small_patch16_224,0.057149082,0.803517163,8.3816694,Transformer,None
+200,efficientnet_lite1,0.07862848,0.802251995,0.9880732,efficientnet,None
+234,mixer_b16_224_miil,0.065494008,0.801872432,25.0779771,None,Mixed Depthwise Convolutional Kernels
+289,resnet50ts,0.056694847,0.801872432,8.6749655,None,None
+241,eca_efficientnet_b0,0.063824914,0.799342096,0.7547673,efficientnet,Efficient Channel Attention
+290,densenet169,0.070098102,0.795673072,6.5595635,None,None
+221,gluon_resnext101_64x4d,0.065149,0.793,31.0090056,None,None
+285,mnasnet_140,0.089355133,0.792383611,0.5172774,None,Platform-Aware Neural Architecture Search for Mobile
+207,nf_seresnet50,0.063955568,0.78909415,0.0059699,Normalizer-Free,Squeeze-and-Excitation Networks
+245,dpn98,0.067832552,0.788335025,23.1013422,None,None
+73,cspresnet50d,0.06066205,0.787069798,7.3804063,None,None
+295,ecaresnext50t_32x4d,0.067546874,0.787069798,5.424256,None,Efficient Channel Attention
+52,vovnet39a,0.065676726,0.785804629,14.1136241,Variety of View Network,None
+180,xcit_tiny_24_p16_224_dist,0.065337904,0.785804629,4.4941379,None,None
+216,darknet53,0.076349445,0.785045505,14.1585818,None,None
+310,xcit_tiny_24_p16_384_dist,0.0607417,0.780870438,4.4941379,None,None
+153,adv_inception_v3,0.07278017,0.776939631,5.6948784,None,None
+171,efficientnet_lite2,0.090077884,0.776821852,1.1361566,efficientnet,None
+138,mnasnet_050,0.082805574,0.775556684,0.0143908,None,Platform-Aware Neural Architecture Search for Mobile
+174,efficientnet_lite4,0.084717378,0.774797618,2.6784681,efficientnet,None
+214,tnt_s_patch16_224,0.066088781,0.774291515,9.683116,None,None
+94,efficientnetv2_s,0.08555,0.774,5.6865422,efficientnet,None
+201,nfnet_f0,0.065535828,0.772646725,0.044756,Normalizer-Free,None
+306,ghostnet_050,0.071360603,0.772646725,0.0083192,None,SOTA(papers with code)
+145,dpn92,0.083069101,0.772267163,12.8409523,None,None
+226,dla102x,0.086902261,0.7718876,11.6919296,None,Deep layer aggregation
+111,lambda_resnet50t,0.080014758,0.767332971,7.6800507,None,None
+8,ig_resnext101_32x8d,0.07089068,0.766953409,32.9164964,None,None
+270,nfnet_f1,0.064799264,0.759488881,0.0884029,Normalizer-Free,None
+107,vit_tiny_r_s16_p8_384,0.076642185,0.759109318,1.7715041,Transformer,None
+146,mixer_b16_224_in21k,0.075504176,0.757085025,25.0779771,None,Mixed Depthwise Convolutional Kernels
+137,vgg11,0.075558759,0.755440235,15.0944645,None,None
+168,vit_srelpos_medium_patch16_224,0.083201095,0.753795505,14.8764283,Transformer,None
+7,nfnet_f2,0.074266829,0.752530336,0.1320499,Normalizer-Free,None
+178,efficientnet_lite3,0.082966343,0.749620438,1.6873369,efficientnet,None
+327,lambda_resnet26t,0.092793167,0.748861313,4.5733033,resnet,None
+104,gmixer_24_224,0.100229926,0.74848181,10.4725402,None,Mixed Depthwise Convolutional Kernels
+91,vovnet57a,0.072547913,0.747975707,17.8294579,Variety of View Network,None
+21,mixer_b16_224,0.085046493,0.74683708,25.0779771,None,Mixed Depthwise Convolutional Kernels
+49,vit_tiny_r_s16_p8_224,0.075035982,0.74683708,0.609835,Transformer,None
+25,mixer_b16_224_miil_in21k,0.084554024,0.745571852,25.0779771,None,Mixed Depthwise Convolutional Kernels
+133,mobilenetv3_small_075,0.098295301,0.741523266,0.0120907,mobilenet,None
+117,efficientnet_b5,0.097061,0.739,4.6874519,efficientnet,None
+27,efficientnetv2_m,0.0886399,0.73899287,10.7111649,efficientnet,None
+147,pit_ti_224,0.085682817,0.735703409,0.9522662,Transformer,None
+330,mnasnet_small,0.095130302,0.733679175,0.1306542,None,Platform-Aware Neural Architecture Search for Mobile
+302,xcit_tiny_24_p16_224,0.067912333,0.733173072,4.4941379,None,None
+230,nfnet_l0,0.079448067,0.73279351,0.0228434,Normalizer-Free,None
+4,tnt_s_patch16_224,0.089737445,0.729504049,9.683116,None,None
+254,mixer_b32_224,0.099765815,0.728744984,6.3273062,None,Mixed Depthwise Convolutional Kernels
+263,dpn107,0.095674,0.7283,36.2777605,None,None
+326,vit_tiny_r_s16_p8_224_in21k,0.085466832,0.727859318,0.609835,Transformer,None
+194,gmixer_12_224,0.097119726,0.727100194,5.2558418,None,Mixed Depthwise Convolutional Kernels
+286,mixer_s16_224,0.105019346,0.720521271,7.4637885,None,Mixed Depthwise Convolutional Kernels
+131,vit_tiny_patch16_384,0.089943282,0.720141709,6.204695,Transformer,None
+161,mnasnet_075,0.094993532,0.719635606,0.0603379,None,Platform-Aware Neural Architecture Search for Mobile
+193,mobilenetv3_large_075,0.124063313,0.717990875,0.0432659,mobilenet,None
+184,wide_resnet101_2,0.085245006,0.714321852,0.2499795,resnet,None
+79,nfnet_f2,0.089540742,0.713056684,0.1320499,Normalizer-Free,None
+173,eca_nfnet_l3,0.094982684,0.709767163,0.0017132,Normalizer-Free,Efficient Channel Attention
+283,deit_base_patch16_224,0.089344114,0.704959512,33.5715963,Transformer,None
+311,mixer_s32_224,0.105374902,0.704453409,1.9044884,None,Mixed Depthwise Convolutional Kernels
+113,gmlp_ti16_224,0.094606265,0.704073906,2.6563195,Transformer,None
+158,vit_tiny_patch16_224,0.097221754,0.702049613,2.1183514,Transformer,None
+316,vit_tiny_patch16_224_in21k,0.093267985,0.700784445,2.1183514,Transformer,None
+84,hrnet_w18_small,0.15787,0.695,3.2167638,None,None
+260,nfnet_f0s,0.099266902,0.692940235,0.044756,Normalizer-Free,None
+65,botnet26t_256,0.107425071,0.692717791,6.3408415,None,None
+40,mobilenetv3_small_100,0.113101937,0.69218117,0.02888,mobilenet,None
+23,nf_resnet101,0.102799758,0.687626541,0.00094,Normalizer-Free,resnet
+203,deit_base_patch16_384,0.106932655,0.682312787,98.3297249,Transformer,None
+273,nfnet_f2,0.100573048,0.679402828,0.1320499,Normalizer-Free,None
+204,deit_small_patch16_224,0.107904047,0.675733805,8.4197345,Transformer,None
+196,pit_xs_224,0.114646733,0.669534445,2.1206193,Transformer,None
+332,adv_inception_v3,1.114823222,0.667876601,5.6948784,None,None
+190,deit_tiny_patch16_224,0.122828335,0.664979756,2.1183514,Transformer,None
+36,repvgg_b2,1.263527155,0.663841069,40.7994061,None,Efficient Channel Attention
+212,gmlp_b16_224,0.124506,0.66,31.4342687,None,None
+328,botnet50ts_256,0.128979892,0.656363428,10.1995356,None,None
+101,densenet264d_iabn,0.133917943,0.654352248,25.458384,None,None
+209,eca_botnext26ts_256,0.13595,0.65,4.7323318,None,Efficient Channel Attention
+243,eca_swinnext26ts_256,0.138662577,0.639929175,30.032724,Transformer,Efficient Channel Attention
+276,efficientnet_cc_b0_8e,0.153208,0.629,0.3416339,efficientnet,None
+321,pit_s_224,0.151318729,0.612854242,4.7384237,Transformer,None
+166,botnet50ts_256,0.141264141,0.60520643,10.1995356,None,None
+185,visformer_small,0.214684963,0.48747468,9.4343813,None,None
+225,repvgg_b3,0.076976776,0.486209512,58.204457,None,None
+152,nf_resnet50,0.294612586,0.409792513,0.00094,Normalizer-Free,resnet
+105,dm_nfnet_f0,0.309256524,0.388410926,0.044756,Normalizer-Free,None
+274,nfnet_f1s,0.278244972,0.369939268,0.0884029,Normalizer-Free,None
+156,visformer_tiny,0.332869649,0.30617407,2.3737708,Transformer,None
+33,eca_nfnet_l1,0.354553372,0.264296561,0.0014111,Normalizer-Free,Efficient Channel Attention
+169,twins_svt_base,0.35467267,0.264296561,16.6907451,None,None
+323,tnt_b_patch16_224,0.355092764,0.264296561,26.8471091,None,None
+324,efficientnet_cc_b1_8e,0.477151,0.237,0.4754349,efficientnet,None
+237,efficientnet_cc_b0_4e,1.794586,0.188,0.3416244,efficientnet,None
