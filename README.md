@@ -1,8 +1,8 @@
 # Kaggle_Ultrasound_Image_Classification
 2022-2 Image Processing with deeplearning final project
 
-Image 1,2 : Model Accuracy and Loss using timm library models
-Image 3 : In order to Weight initialization, calculate model's Rank (HRanK: Lin et al)
+Image 1,2 : Model Accuracy and Loss using timm library models <br>
+Image 3 : In order to Weight initialization, calculate Rank of model(HRanK: Lin et al)
 ![loss_gflops](https://user-images.githubusercontent.com/38518648/206941861-f0c0fa71-1637-496a-a9a1-cedd8101b145.png)
 ![acc_gflops](https://user-images.githubusercontent.com/38518648/206941862-4bdd51e8-6e30-45a4-b6c2-38d35c007e03.png)
 ![image](https://user-images.githubusercontent.com/38518648/206948817-bc69f926-fdf6-4ef4-8992-101bf53d6148.png)
